@@ -34,18 +34,3 @@ Im base on...
       <li><a href="#Improvements"> Improvements</a></li>
       <li><a href="#References"> References</a></li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 5cd6da69bcdf396e840e80b0b6e5a87f25f0b4b7
